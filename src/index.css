@@ -21,8 +21,9 @@ body {
   width: 100%;
 }
 
-@media screen and (max-width: 60rem){ /* 950px */
+@media(max-width: 60rem){ /* 950px */
   :root {
-      font-size: 14px;
+      font-size: 9px;
   }
+
 }
