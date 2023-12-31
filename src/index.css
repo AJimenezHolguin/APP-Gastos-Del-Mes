@@ -23,7 +23,7 @@ body {
 
 @media(max-width: 60rem){ /* 950px */
   :root {
-      font-size: 9px;
+      font-size: 8px;
   }
 
 }
