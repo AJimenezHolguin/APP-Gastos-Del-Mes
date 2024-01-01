@@ -6,7 +6,7 @@ import {useTotalDelMes} from './../contextos/TotalGastadoEnElMesContext';
 
 
 const BarraTotal = styled.div`
-    background: ${theme.verde};
+    background: ${theme.rojo};
     font-size: 1.25rem; /* 20px */
     letter-spacing: 1px;
     font-weight: 500;

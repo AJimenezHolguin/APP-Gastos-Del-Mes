@@ -31,6 +31,7 @@ const ContenedorHeader = styled.div`
         display: flex;
         flex-direction: column-reverse;
         align-items: center;
+        padding-right: 15px;
  
         & > div {
             display: flex;
