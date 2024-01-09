@@ -44,6 +44,10 @@ const ListaDeCategorias = styled.ul`
     padding: 0 2.5rem; /* 40px */
     height: 100%;
     overflow-y: auto;
+
+    @media (max-width: 60rem) { /* 950px */
+        height: 0;
+    }
 `;
  
 const ElementoListaCategorias = styled.li`
